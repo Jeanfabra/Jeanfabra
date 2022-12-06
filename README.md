@@ -1,4 +1,4 @@
-### Hi there! I'm open to work👋
+### Hi there! 
 
 <!--
 **onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Data Scientist and Chemical Engineer! Eager to learn, strong desire to apply and improve.
-- 🎓 &nbsp; Focusing on Data Engineer: Studying Cloud Computing and Pyspark.
+- 🎓 &nbsp; Focusing on Data Engineer & Business Intelligence: Studying Cloud Computing and SSIS
 - 🌱 &nbsp; Music and Science lover 
-- 👨‍💻 &nbsp; Open for remote work!
 
 <h3>🛠 Tech Stack</h3>
 
