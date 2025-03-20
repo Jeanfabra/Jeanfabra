@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Data & Chemical Engineer! Eager to learn, strong desire to apply and improve.
-- 🎓 &nbsp; Focusing on Data Engineer & Business Intelligence: Studying Azure Cloud in depth
+- 🎓 &nbsp; Focusing on Data Engineer & Backend Development: Working with AWS Cloud and Flask Framework
 - 🌱 &nbsp; Music and Science lover 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Numpy | Pandas | Scikit Learn | Docker | Spark | Machine Learning
+- 💻 &nbsp; Python | Numpy | Pandas | Scikit Learn | Docker | Spark | Machine Learning | Flask
 - 🛢 &nbsp; SQL | Power BI
-- 🔧 &nbsp; Git | Microsoft Azure
+- 🔧 &nbsp; Git | Microsoft Azure | AWS | Automatíon
 
 ### 📫🤝🏻 Connect with Me
 
