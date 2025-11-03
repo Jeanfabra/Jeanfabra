@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Data & Chemical Engineer! Eager to learn, strong desire to apply and improve
 - 🎓 &nbsp; Focus on Data Engineer, Data Quality and Analytics
-- 🌱 &nbsp; Music and Science lover
+- 🌱 &nbsp; Music, Nature and Science lover
 
 <h3>🛠 Tech Stack</h3>
 
