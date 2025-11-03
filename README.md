@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Data & Chemical Engineer! Eager to learn, strong desire to apply and improve.
-- 🎓 &nbsp; Focusing on Data Engineer & Backend Development: Working with AWS Cloud and Flask Framework
-- 🌱 &nbsp; Music and Science lover 
+- 🤔 &nbsp; Data & Chemical Engineer! Eager to learn, strong desire to apply and improve
+- 🎓 &nbsp; Focus on Data Engineer, Data Quality and Analytics
+- 🌱 &nbsp; Music and Science lover
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Numpy | Pandas | Scikit Learn | Docker | Spark | Machine Learning | Flask
-- 🛢 &nbsp; SQL | Power BI
-- 🔧 &nbsp; Git | Microsoft Azure | AWS | Automatíon
+- 💻 &nbsp; Python | SQL (Redshift, Snowflake) | Cloud Computing | Spark
+- 🎻 &nbsp; Airflow | Prefect
+- 📊 &nbsp; Snowflake Dashboards | PowerBI
+- 🔧 &nbsp; Git & GitHub
 
 ### 📫🤝🏻 Connect with Me
 
