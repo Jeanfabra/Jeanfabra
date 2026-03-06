@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/jeanfabra/) 👨🏻‍💻
+ <!-- - Connect with me on [LinkedIn](https://www.linkedin.com/in/jeanfabra/) 👨🏻‍💻 -->
  - Shoot Me an [Email](mailto:jeanfabra11@gmail.com) 💌
